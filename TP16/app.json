@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TPN16",
+    "slug": "TPN16",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "TPN16"
+}
